@@ -3,7 +3,7 @@ hello wsh! hello git!
 hello wsh! hello git!
 hello wsh! hello git!
 hello wsh! hello git!
-hello wsh! hello git!
+hello wsh! hello git!clone
 hello wsh! hello git!
 hello wsh! hello git!
 hello wsh! hello git!
